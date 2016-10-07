@@ -1,0 +1,28 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+
+# Logo Image Source
+logo_src: /images/tjalogo.png
+
+# Theme Main Subtitle
+subtitle_main: theme main subtitle.
+
+# Theme Secondary subtitle
+susbtitle_secondary: theme secondary subtitle
+# Default post title
+default_post_title: Untitled
+
+# Default post cover index page (Recommended)
+default_cover_index: "http://placehold.it/100x100"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates:
+
+# Google Analytics Tracking ID
+google_analytics:
