@@ -1,5 +1,5 @@
 ---
-title: Travel Republic summer 2016 campaign
+title: Travel Republic summer 2016
 thumb: images/tr-thumb.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Libratone & Sigma - Nightingale promo
+title: Libratone & Sigma
 thumb: images/libra-thumb.jpg
 ---
 Agency: __Antidote__
