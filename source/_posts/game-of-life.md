@@ -1,5 +1,6 @@
 ---
 title: Canvas Game of Life
+summary: Cellular automata fun
 date: 2016-10-06 19:05:50
 tags:
 thumb: /images/gol-thumb.jpg

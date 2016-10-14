@@ -1,5 +1,6 @@
 ---
 title: Creativity to make you happy
+summary: Responsive blog site
 tags:
 thumb: images/zab-thumb.jpg
 image_cover: images/zab-cover.jpg

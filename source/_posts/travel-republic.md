@@ -1,5 +1,6 @@
 ---
 title: Travel Republic summer 2016
+summary: HTML banner ads
 thumb: images/tr-thumb.jpg
 ---
 

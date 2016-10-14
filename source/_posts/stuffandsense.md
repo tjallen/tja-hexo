@@ -1,5 +1,6 @@
 ---
 title: Stuff & Sense
+summary: Responsive company site
 thumb: /images/stuff-thumb.jpg
 ---
 

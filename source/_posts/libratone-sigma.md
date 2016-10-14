@@ -1,5 +1,6 @@
 ---
 title: Libratone & Sigma
+summary: Youtube 360° Player
 thumb: images/libra-thumb.jpg
 ---
 Agency: __Antidote__
