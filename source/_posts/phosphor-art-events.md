@@ -1,6 +1,7 @@
 ---
 title: Phosphor Art events
 summary: Responsive landing pages
+casestudy: true
 thumb: "/images/phosphor-thumb.jpg"
 image_cover: "/images/phosphor-cover.jpg"
 photos:

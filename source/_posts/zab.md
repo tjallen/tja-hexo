@@ -1,6 +1,7 @@
 ---
 title: Creativity to make you happy
 summary: Responsive blog site
+url: http://www.zabbyallen.com/
 tags:
 thumb: images/zab-thumb.jpg
 image_cover: images/zab-cover.jpg

@@ -1,6 +1,8 @@
 ---
 title: Travel Republic summer 2016
 summary: HTML banner ads
+casestudy: true
+url: http://thomjamesallen.com/projects/adviewer
 thumb: images/tr-thumb.jpg
 ---
 

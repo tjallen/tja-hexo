@@ -1,6 +1,7 @@
 ---
 title: Stuff & Sense
 summary: Responsive company site
+url: http://www.stuffandsense.com
 thumb: /images/stuff-thumb.jpg
 ---
 
