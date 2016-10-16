@@ -1,13 +1,18 @@
 ---
 title: Canvas Game of Life
 summary: Cellular automata fun
-url: http://thomjamesallen.com/projects/conway/
+page_links:
+- link_text: Demo
+  link_url: http://thomjamesallen.com/projects/conway/
 casestudy: true
 date: 2016-10-06 19:05:50
-tags:
 thumb: /images/gol-thumb.jpg
 image_post: /images/gol-cover.jpg
 repo: https://github.com/tjallen/conway
+tags:
+- JavaScript
+- HTML & CSS
+- SASS
 ---
 
 I heard the internet cry out. Everyone was desperate for the seven-hundred-trillionth implementation of Conway's Game of Life. 
