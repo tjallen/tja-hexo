@@ -12,7 +12,6 @@ page_links:
   - link_text: Antidote case study
     link_url: http://www.antidote.co.uk/work/libratone-x-sigma-presents-nightingale/
 thumb: images/libra-thumb.jpg
-image_post: /images/libra-cover.jpg
 tags:
 - JavaScript
 - YouTube API
