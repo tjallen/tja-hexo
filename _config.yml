@@ -65,6 +65,10 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: tja
 
+# favicon, apple touch icons
+favicon: /images/favicon.png
+appletouchicon: /images/apple-touch-icon.png
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
