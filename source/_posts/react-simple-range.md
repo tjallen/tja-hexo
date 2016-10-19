@@ -12,7 +12,6 @@ page_links:
 tags:
 - JavaScript
 - React
-- CSS Modules
 - Webpack
 ---
 [![npm version](https://img.shields.io/npm/v/react-simple-range.svg?style=flat)](https://www.npmjs.com/package/react-simple-range)
