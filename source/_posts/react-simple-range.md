@@ -8,7 +8,7 @@ repo: https://github.com/tjallen/react-simple-range
 pkg: https://www.npmjs.com/package/react-simple-range
 page_links:
 - link_text: Slider examples
-  link_url: google.com
+  link_url: http://www.thomjamesallen.com/projects/react-simple-range-examples
 tags:
 - JavaScript
 - React
@@ -23,6 +23,6 @@ I wanted to get some experience publishing open-source modules and React's focus
 
 My aim was to keep it simple and lightweight while progressively adding useful features, largely in the form of optional props that can be passed by the user.
 
-The component was developed in ES6 and transpiled to ES5 by Babel for release as an NPM package. I'm using [semantic-release](https://github.com/semantic-release/semantic-release), [Travis CI](https://travis-ci.org/) and [commitizen](https://github.com/commitizen/cz-cli) for meaningful commit messages, semantic versioning, continuous integration and automated package publishing.
+The component was developed in ES6 and transpiled to ES5 by Babel for release as an NPM package. I'm using [semantic-release](https://github.com/semantic-release/semantic-release), [Travis CI](https://travis-ci.org/) and [commitizen](https://github.com/commitizen/cz-cli) for meaningful commit messages, semantic versioning, continuous integration, automated package publishing and releases.
 
-I've included some basic tests with [Mocha](https://mochajs.org/), [Expect](https://github.com/mjackson/expect) and [Enzyme](https://github.com/airbnb/enzyme) but I'd like to increase test coverage in future when I've got the time.
+I've included some basic tests with [Mocha](https://mochajs.org/), [Expect](https://github.com/mjackson/expect) and [Enzyme](https://github.com/airbnb/enzyme) but I'm aiming to increase the test coverage when I get time.
