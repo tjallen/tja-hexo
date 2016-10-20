@@ -3,7 +3,7 @@ title: Canvas Game of Life
 summary: Cellular automata fun
 page_links:
 - link_text: Demo
-  link_url: http://thomjamesallen.com/projects/conway/
+  link_url: http://projects.thomjamesallen.com/conway/
 casestudy: true
 date: 2016-10-06 19:05:50
 thumb: /images/gol-thumb.jpg
