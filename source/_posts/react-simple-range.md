@@ -8,7 +8,7 @@ repo: https://github.com/tjallen/react-simple-range
 pkg: https://www.npmjs.com/package/react-simple-range
 page_links:
 - link_text: Slider examples
-  link_url: http://www.thomjamesallen.com/projects/react-simple-range-examples
+  link_url: /projects/react-simple-range-examples
 tags:
 - JavaScript
 - React

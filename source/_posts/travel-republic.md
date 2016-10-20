@@ -6,7 +6,7 @@ casestudy: true
 agency: Antidote
 agency_url: http://www.antidote.co.uk/
 page_links: 
-- link_url: http://projects.thomjamesallen.com/adviewer
+- link_url: /projects/adviewer
   link_text: Ad viewer
 thumb: images/tr-thumb.jpg
 tags:
