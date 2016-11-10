@@ -1,3 +1,4 @@
 # tja-hexo
-testing hexo static site generator for potential portfolio use
-[TJA theme here](https://github.com/tjallen/hexo-theme-tja)
+source for [my portfolio site](http://www.thomjamesallen.com)
+
+[TJA theme](https://github.com/tjallen/hexo-theme-tja)
