@@ -13,6 +13,8 @@
     { src: 'PC300x600', name: 'Portugal culture 300x600' },
     { src: 'TB300x600', name: 'Thailand beach 300x600' },
     { src: 'GB300x250', name: 'Generic beach 300x250' },
+    { src: 'MB320x50', name: 'Majorca beach 320x50' },
+    { src: 'PB728x90', name: 'Portugal beach 728x90' },
   ];
   
   // populate the select from the ads array
