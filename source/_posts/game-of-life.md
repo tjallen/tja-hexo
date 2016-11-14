@@ -11,6 +11,7 @@ image_post: /images/gol-cover.jpg
 repo: https://github.com/tjallen/conway
 tags:
 - JavaScript
+- jQuery
 - Canvas
 - HTML & CSS
 - SASS

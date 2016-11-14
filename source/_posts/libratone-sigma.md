@@ -14,6 +14,7 @@ page_links:
 thumb: images/libra-thumb.jpg
 tags:
 - JavaScript
+- jQuery
 - YouTube API
 - HTML & CSS
 - SASS
