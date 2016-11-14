@@ -9,6 +9,7 @@ page_links:
 - link_url: /projects/adviewer
   link_text: Ad viewer
 thumb: images/tr-thumb.jpg
+image_post: /images/tr-728.jpg
 tags:
 - HTML & CSS
 - JavaScript
