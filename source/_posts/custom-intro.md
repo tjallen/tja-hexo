@@ -1,6 +1,7 @@
 ---
 title: custom-intro
 custom: true
+layout: false
 ---
 ## Hello!
 **I'm Thom Allen**, a **freelance front-end developer** working in London. I specialise in creating **responsive, efficient websites & web apps that provide the best possible user experience**. Currently, I'm focusing on developing modern UI components for web apps with libraries like React and Vue.
