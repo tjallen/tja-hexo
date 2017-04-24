@@ -21,14 +21,14 @@ This is a simple React slider component used for inputting a number within a ran
 
 I wanted to get some experience publishing open-source modules and React's focus on composable, reusable components made this a good opportunity.
 
-My aim was to keep it simple and lightweight while progressively adding useful features, largely in the form of props which allow users to customize the slider, eg:
+My aim was to keep it simple and lightweight while progressively adding useful features, largely in the form of props which allow users to customise the slider, eg:
 
 - Custom min, max and step values
-- Custom lider size
+- Custom slider size
 - Toggle a value label
 - Change the slider colours
 - Pass down a custom thumb element
 
-The component was developed in ES6 and transpiled to ES5 by Babel for release as an NPM package. I'm using [semantic-release](https://github.com/semantic-release/semantic-release), [Travis CI](https://travis-ci.org/) and [commitizen](https://github.com/commitizen/cz-cli) for meaningful commit messages, semantic versioning, continuous integration, automated package publishing and releases.
+The component was developed in ES6 and compiled to ES5 by Babel for release as an NPM package. I'm using [semantic-release](https://github.com/semantic-release/semantic-release), [Travis CI](https://travis-ci.org/) and [commitizen](https://github.com/commitizen/cz-cli) for meaningful commit messages, semantic versioning, continuous integration, automated package publishing and releases.
 
 I've included some basic tests with [Mocha](https://mochajs.org/), [Expect](https://github.com/mjackson/expect) and [Enzyme](https://github.com/airbnb/enzyme) but I'm aiming to increase the test coverage when I get time.
