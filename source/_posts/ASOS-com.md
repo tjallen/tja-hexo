@@ -8,7 +8,7 @@ page_links:
 - link_text: PayPal microsite
   link_url: http://www.asos.com/discover/microsite/paypal/
 - link_text: Hostelworld microsite
-  link_url: http://www.asos.com/discover/microsite/hostelworld/
+  link_url: http://www.asos.com/discover/microsite/hostelworld-2017/
 photos:
 - "images/asos-hostelworld-de.jpg"
 - "images/asos-paypal.jpg"
@@ -24,4 +24,4 @@ tags:
 - i18n
 ---
 
-Working at ASOS head offices in Camden, I built microsites to continue ASOS' brand partnerships with PayPal and Hostelworld. Desktop and mobile builds & internationalised (UK, US, German and French) versions of each had to be created to meet a tight deadline. I used a custom Gulp setup to output static builds from Pug templates & i18n stored in JSON form.
+Working at ASOS head offices in Camden, I built microsites to continue ASOS' brand partnerships with PayPal and Hostelworld. Desktop and mobile builds & internationalised (UK, US, FR, DE) versions of each were created to meet a tight deadline. I used a custom Gulp setup to output static builds from Pug templates & output i18n from JSON files.
