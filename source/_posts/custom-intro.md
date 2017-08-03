@@ -7,7 +7,7 @@ layout: false
 **I'm Thom Allen**, a London-based **freelance front-end developer**. I specialise in creating **responsive, efficient websites & web apps that provide the best possible user experience**. Currently, I'm developing modern UI components for web apps with JavaScript libraries, typically using **React**.
 
 ### Skills
-Over the years I've picked up a wealth of web experience including: Front-end fundamentals like **HTML5** & **CSS3, Sass, JavaScript** to **ES6+**; JS and CSS libraries and frameworks such as **jQuery, Bootstrap, React** & **Vue**; state management implementations like **Redux, MobX, Flux** and bundlers / build tools like **Webpack** & **Gulp**. I've also got experience in designing sites, Content Management Systems and more; though I'm concentrating on front-end development. For a more complete list, <a href="/files/Thom_Allen_CV.pdf" title="Thom James Allen CV">see my CV</a>.
+Over the years I've picked up a wealth of web experience including: Front-end fundamentals like **HTML5** & **CSS3, Sass, JavaScript** to **ES6+**; JS and CSS libraries and frameworks such as **React, Vue, jQuery & Electron**; state management implementations like **Redux, MobX, Flux** and build tools like **Webpack** & **Gulp**. For a more complete list, <a href="/files/Thom_Allen_CV.pdf" title="Thom James Allen CV">see my CV</a>.
 
 ### Status
 **I'm available for contract/freelance work from August 2017**.
