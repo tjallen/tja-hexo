@@ -18,8 +18,6 @@ tags:
 - Gulp
 ---
 
-I heard the internet cry out. Everyone was desperate for the seven-hundred-trillionth implementation of Conway's Game of Life. 
+I heard the internet cry out, desperate for the seven-hundred-trillionth implementation of Conway's Game of Life.
 
-It's a fairly simple JS + Canvas-based version with a few predefined shapes and the ability to toggle cell state / draw custom shapes. Fairly old & busted at this point, but it was fun to put together so I cherish it like a memory leaking child <3
-
-I love me some cellular automata so I'll try and revisit it at some point, if only to refactor and improve performance.
+It's a simple JS + Canvas-based version with a few predefined shapes and the ability to toggle cell state / draw custom shapes. Fairly old & busted at this point, but it was fun to put together so I cherish it like a memory leaking child <3

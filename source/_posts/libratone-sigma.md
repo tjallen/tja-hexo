@@ -8,7 +8,7 @@ agency_url: http://www.antidote.co.uk/
 image_post: /images/libra-cover.jpg
 page_links:
   - link_text: The player
-    link_url: http://nightingale360-video.com.192-168-0-10.bosscomms.com/
+    link_url: /projects/nightingale
   - link_text: Antidote's case study
     link_url: http://www.antidote.co.uk/work/libratone-x-sigma-presents-nightingale/
 thumb: images/libra-thumb.jpg
