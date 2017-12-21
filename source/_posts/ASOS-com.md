@@ -4,11 +4,6 @@ date: 2017-06-01 13:23:08
 summary:  PayPal & Hostelworld microsites
 casestudy: true
 thumb: images/asos-thumb.jpg
-page_links:
-- link_text: PayPal microsite
-  link_url: http://www.asos.com/discover/microsite/paypal/
-- link_text: Hostelworld microsite
-  link_url: http://www.asos.com/discover/microsite/hostelworld-2017/
 photos:
 - "images/asos-hostelworld-de.jpg"
 - "images/asos-paypal.jpg"
